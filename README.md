@@ -2,10 +2,10 @@
   @danbaruka — GitHub Profile
 -->
 
-<h1 align="center">
-  Hey, I'm Dan Baruka
+<h1 align="center">Hey, I'm Dan Baruka</h1>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=350&lines=Blockchain+Engineer;Full-stack+Builder;Community+Leader" alt="Typing SVG" />
-</h1>
+</div>
 
 <p align="center"><b>Building secure digital ecosystems, fostering communities, and driving innovation with blockchain and software.</b></p>
 
