@@ -1,6 +1,5 @@
 <!--
-  Sophisticated Professional GitHub Profile README for @danbaruka
-  Copy-paste ready for your profile repo!
+  @danbaruka — GitHub Profile
 -->
 
 <h1 align="center">
@@ -10,121 +9,77 @@
 
 <p align="center"><b>Building secure digital ecosystems, fostering communities, and driving innovation with blockchain and software.</b></p>
 
----
-
-## Core Skills & Technologies
 
 <p align="center">
-  <!-- Shields.io Badges -->
-  <img src="https://img.shields.io/badge/Cardano-Developer-3E6C99?logo=cardano&logoColor=white&style=for-the-badge" alt="Cardano Dev" />
-  <img src="https://img.shields.io/badge/Community-Builder-FFA500?style=for-the-badge" alt="Community Builder" />
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/DevOps-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
+  <a href="https://linkedin.com/in/danbaruka"><img src="https://img.shields.io/badge/LinkedIn-danbaruka-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://x.com/danamphred"><img src="https://img.shields.io/badge/X-@danamphred-000000?logo=x&logoColor=white&style=flat-square" alt="X/Twitter" /></a>
+  <a href="https://devcommunity.io/profile/danamphred"><img src="https://img.shields.io/badge/Dev_Community-danamphred-0A0A0A?logo=dev.to&logoColor=white&style=flat-square" alt="Dev Community" /></a>
+  <a href="https://dan.baruka.me"><img src="https://img.shields.io/badge/Website-dan.baruka.me-24292F?logo=link&logoColor=white&style=flat-square" alt="Website" /></a>
+  <a href="mailto:danbaruka01@gmail.com"><img src="https://img.shields.io/badge/Email-danbaruka01@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
 </p>
 
 ---
 
-## GitHub Analytics & Insights
-
-<div align="center">
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=danbaruka&label=Profile%20views&color=blue&style=plastic" alt="Profile views" />
-
-<!-- Advanced GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=danbaruka&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="danbaruka's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danbaruka&theme=transparent&hide_border=true" alt="danbaruka's GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbaruka&layout=compact&theme=transparent&hide_border=true" alt="danbaruka's Top Languages" />
-
-<!-- Sophisticated Analytics Graph - use GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danbaruka&theme=github-compact" alt="danbaruka's Activity Graph" />
-</div>
-
----
-
-## Achievements, Trophies & Badges
-
-<div align="center">
-
-<!-- GitHub Trophies - Use compact style for reliability -->
-<img src="https://github-profile-trophy.vercel.app/?username=danbaruka&theme=onestar&margin-w=8&row=1&column=6" alt="danbaruka's Trophies" />
-
-</div>
-
----
-
-## Top Repositories
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/UPTODATE-DEV/cspocli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=UPTODATE-DEV&repo=cspocli&theme=transparent" />
-      </a>
-      <br/><sub>CLI for cloud ops automation</sub>
-    </td>
-    <td>
-      <a href="https://github.com/danbaruka/safrimba">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danbaruka&repo=safrimba&theme=transparent" />
-      </a>
-      <br/><sub>Secure blockchain-based transactions</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/STARKMINTio/starkmint-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=STARKMINTio&repo=starkmint-frontend&theme=transparent" />
-      </a>
-      <br/><sub>NFT minting frontend</sub>
-    </td>
-    <td>
-      <a href="https://github.com/Safrochain-Org/safrimba-smartcontract">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Safrochain-Org&repo=safrimba-smartcontract&theme=transparent" />
-      </a>
-      <br/><sub>Safrimba smart contracts</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/danbaruka/safrochainhub-copilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=danbaruka&repo=safrochainhub-copilot&theme=transparent" />
-      </a>
-      <br/><sub>Copilot-powered hub for Safrochain projects</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## Latest Blog Posts
-
-<!-- Replace with your RSS feed using GitHub Actions or https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:START -->
-- [How Blockchain Is Transforming Africa](https://medium.com/@danbaruka/how-blockchain-is-transforming-africa-xxxxxx)
-- [Efficient Smart Contract Development Tips](https://medium.com/@danbaruka/efficient-smart-contract-development-tips-xxxxxx)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Connect
+## Core Skills
 
 <p align="center">
-  <a href="https://linkedin.com/in/danbaruka"><img src="https://img.shields.io/badge/LinkedIn-danbaruka-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/danbaruka"><img src="https://img.shields.io/badge/Twitter-@danbaruka-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://danbaruka.com"><img src="https://img.shields.io/badge/Website-danbaruka.com-24292F?logo=github&logoColor=white&style=for-the-badge" alt="Website" /></a>
-  <a href="mailto:danbaruka@gmail.com"><img src="https://img.shields.io/badge/Email-danbaruka@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <b>Blockchain</b><br/>
+  <img src="https://img.shields.io/badge/Cardano-3E6C99?logo=cardano&logoColor=white&style=flat-square" alt="Cardano" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat-square" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Plutus-5B4B8A?style=flat-square" alt="Plutus" />
+  <img src="https://img.shields.io/badge/Aiken-111827?style=flat-square" alt="Aiken" />
+  <img src="https://img.shields.io/badge/Haskell-5E5086?logo=haskell&logoColor=white&style=flat-square" alt="Haskell" />
+  <img src="https://img.shields.io/badge/Smart_Contracts-1F2937?style=flat-square" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/Web3-111827?style=flat-square" alt="Web3" />
+  <img src="https://img.shields.io/badge/DeFi-0F172A?style=flat-square" alt="DeFi" />
+</p>
+
+<p align="center">
+  <b>Full-Stack</b><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs" />
+</p>
+
+<p align="center">
+  <b>DevOps & Management</b><br/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/DevOps-0B7285?style=flat-square" alt="DevOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-1D4ED8?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Project_Management-6C757D?style=flat-square" alt="Project Management" />
+</p>
+
+<p align="center">
+  <b>Community & Leadership</b><br/>
+  <img src="https://img.shields.io/badge/Community_Building-FFA500?style=flat-square" alt="Community Building" />
+  <img src="https://img.shields.io/badge/Developer_Relations-8B5CF6?style=flat-square" alt="Developer Relations" />
+  <img src="https://img.shields.io/badge/Public_Speaking-0EA5E9?style=flat-square" alt="Public Speaking" />
+  <img src="https://img.shields.io/badge/Mentoring-22C55E?style=flat-square" alt="Mentoring" />
+  <img src="https://img.shields.io/badge/Open_Source-14B8A6?style=flat-square" alt="Open Source" />
 </p>
 
 ---
 
+## Featured Projects
+
 <div align="center">
-  <b>Open for collaborations, partnerships, and global community building.<br>
-  Reach out and let's create impact!</b>
+  <a href="https://github.com/UPTODATE-DEV/cspocli">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=UPTODATE-DEV&repo=cspocli&theme=transparent&hide_border=true" alt="cspocli" />
+  </a>
+  <a href="https://github.com/danbaruka/safrimba">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=danbaruka&repo=safrimba&theme=transparent&hide_border=true" alt="safrimba" />
+  </a>
+  <a href="https://github.com/STARKMINTio/starkmint-frontend">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=STARKMINTio&repo=starkmint-frontend&theme=transparent&hide_border=true" alt="starkmint-frontend" />
+  </a>
 </div>
+
+---
