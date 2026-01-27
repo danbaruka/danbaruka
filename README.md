@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs" />
 </p>
@@ -68,18 +70,3 @@
 
 ---
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/UPTODATE-DEV/cspocli">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=UPTODATE-DEV&repo=cspocli&theme=transparent&hide_border=true" alt="cspocli" />
-  </a>
-  <a href="https://github.com/danbaruka/safrimba">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=danbaruka&repo=safrimba&theme=transparent&hide_border=true" alt="safrimba" />
-  </a>
-  <a href="https://github.com/STARKMINTio/starkmint-frontend">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=STARKMINTio&repo=starkmint-frontend&theme=transparent&hide_border=true" alt="starkmint-frontend" />
-  </a>
-</div>
-
----
