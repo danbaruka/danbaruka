@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://00trust.io"><b>00trust.io</b></a> &nbsp;·&nbsp;
   <a href="https://baruka.me"><b>baruka.me</b></a> &nbsp;·&nbsp;
   <a href="https://baruka.me/en/cv">CV</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/danbaruka">LinkedIn</a> &nbsp;·&nbsp;
@@ -25,9 +26,13 @@
 
 As **CTO and co-founder of [Safrochain](https://safrochain.com)**, I took a Cosmos SDK Layer 1 from the Juno codebase to a live mainnet (`safrochain-1`, June 2026), and I still run it every day: upgrades, validators, IBC, the indexer, the explorer and the people who build on it. The network counts **100,000+ wallets** and **millions of transactions**.
 
-I also founded **[Zunia Lab](https://zunialab.com)**, a self-custody Cosmos wallet for 262 chains, and I'm a **Developer Advocate at [Intersect](https://www.intersectmbo.org)** for Cardano. Seven years building software, five in blockchain. Based in Nairobi, working remotely (UTC+3).
+I also founded **[Zunia Lab](https://zunialab.com)**, a self-custody Cosmos wallet for 262 chains, and I'm a **Developer Advocate at [Intersect](https://www.intersectmbo.org)** for Cardano. I build **[00trust](https://00trust.io)**: verifiable AI audits for Midnight smart contracts, with Cardano next. Seven years building software, five in blockchain. Based in Nairobi, working remotely (UTC+3).
 
 ### Selected work
+
+**[00trust](https://00trust.io)** &nbsp;<sub>MIDNIGHT · CARDANO · 2026</sub>  
+Verifiable AI audits for Compact contracts. Every report is bound to a commit and anchored on Midnight. Cardano is next.  
+<sub>Midnight · Compact · Cardano · <a href="https://00trust.io">00trust.io</a> · <a href="https://baruka.me/en/work/00trust">case study</a></sub>
 
 <table>
   <tr>
